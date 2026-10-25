@@ -1,0 +1,18 @@
+{
+  "datasets/clean_datasets/faostat_wide.xlsx": "c28a6093a9bcc41245bf4b4634e7fe5240ef813d38bbfceaeabf784363fa325f",
+  "datasets/clean_datasets/pivoted_hdi_clean.xlsx": "8c86c29e6c386a483b0b2780c3ca36f72e401bd5d3611fb456d092315b386b2b",
+  "datasets/clean_datasets/tuberculosis_2022_clean.xlsx": "e7a110d2ad0042f2c12fb21ba2364994a6d3c58323698b71c8af83a03433676a",
+  "datasets/clean_datasets/tuberculosis_vaccine.csv": "644d90a900a8b6556020df5a3cb19befd5f9a43f9180b6e202a548dddaae3531",
+  "datasets/final_dataset/final_dataset_2022_who_faostat_hdi_bcg.csv": "0dcdc983921918021ea37591d5589a426f2918c0cee9b0b6df77ea0a41955310",
+  "datasets/original_datasets/faostat_food_availability_2022.xlsx": "a460abe441432907c1e486af7452a94f0f4d2fc43a441126a88226c4e0394ebd",
+  "datasets/original_datasets/hdi_dataset.xlsx": "9022ce254ad6428ee00f725628cda713ebe047dda6e29203d60043f2750122e0",
+  "datasets/original_datasets/tuberculosis_vaccine.csv": "644d90a900a8b6556020df5a3cb19befd5f9a43f9180b6e202a548dddaae3531",
+  "datasets/original_datasets/worldbank_dataset.xlsx": "1679fa0fdf63f8ce00d3aeecad7051672ab74b063658a1e7e705bea6dd6be439",
+  "images/TB_transmission.png": "c147bda9d5cfe34546deebda99b2281dd24028af1fbf4d997ac80b248176e909",
+  "images/Tuberculosis_incidence_map.png": "035d1849d627d7330b853af1bffe02eddc9adc69c9193d4d6245f62e05136c93",
+  "images/shap_ridge_beeswarm_SUPPLY_ALL_enhanced.png": "0dde82888c630be25d03ce4c26d700faece7e8c2db5178fb6b57676281f0d17f",
+  "images/shap_ridge_summary_ALL_enhanced.png": "68376f3c72bb3d70c4163aefa2cb76a6c0907272c638b4ee47f19d6384f061da",
+  "paper/CIIT2026_Paper31.docx": "e92144eef7377b2ffe838e5d92a078eb4963defa037cba38b4d4bcac209a854c",
+  "paper/CIIT2026_Paper31.pdf": "2296c42ea9e0e7253db8db5a4d33ac0b421ad1255b126fa8928258869e564f12",
+  "tuberculosis_case_prediction_from_nutrition_and_demographic_factors_2022.ipynb": "99ad3b27a2c766c966a6eb96f2ffc607e01d4463eff44fdf73fe2911ebd03ec6"
+}

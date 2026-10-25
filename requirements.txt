@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+matplotlib-inline
+seaborn
+plotly
+pycountry
+shap
+openpyxl
+jupyterlab
+ipykernel
